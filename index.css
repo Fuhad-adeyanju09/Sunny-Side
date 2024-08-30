@@ -349,4 +349,6 @@ header h1{
     .burger{
         display: block;
     }
+    .section-z{
+        border: 1px solid;
 }
