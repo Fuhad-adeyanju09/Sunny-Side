@@ -352,5 +352,6 @@ header h1{
     }
     .section-z{
         border: 1px solid;
-        height: 100vh;
+        height: auto;
+        
 }
