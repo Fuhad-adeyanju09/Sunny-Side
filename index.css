@@ -249,6 +249,7 @@ header h1{
 .section-z{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid;
 }
 .grid-box-one{
     height: 700px;
